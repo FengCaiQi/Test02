@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //开屏页代码
+        //开屏页完成
         
     }
 }
